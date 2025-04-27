@@ -1,0 +1,897 @@
+﻿Email_Subject,Email_Content,Sender_Name,Sender_Domain,Sender_TLD,URLs,Suspicious_Words,label
+Untersuchter Text,"
+­­­­Wi­­­­­­c­­­h­­­­­­t­­­i­­­­­­g­e :­­­­­­­­ ­­­Ih­­­­r­­­­­­­ ­­­­­­­A­­­­­­­­m­­­a­z­o­­­­­­­­n­­­­­­­-­­­­K­­­­o­­­­­­­­n­t­­­­­­­o­ ­­­w­­­­­­­­u­­­­­­­­r­­­­­­­­d­­­­­­­­e ­v­­­­­­­o­­­­­­­rü­­­­­­­­b­­­­e­r­g­­­­­­e­­­­­­­h­e­­­­­­­­nd­­­­ ­­­­­­­­ge­­­­­­s­­­­­­p­­­e­­­r­­­r­­­­­­t­­­. #­BVAQYPM
+n­­­­o­-­­r­­­e­­­­­­­p­­­­­­­l­­y 
+
+Hallo,
+
+Wir haben Ihr Amazon-Konto vorübergehend gesperrt und alle ausstehenden Bestellungen oder Abonnements storniert, da ungewöhnliche Aktivitäten festgestellt wurden.
+
+Um den Zugang zu Ihrem Konto wiederherzustellen, klicken Sie bitte auf die Schaltfläche unten und folgen Sie den Anweisungen auf dem Bildschirm. Sobald Sie die erforderlichen Informationen bereitgestellt haben, werden wir Ihre Anfrage prüfen und innerhalb von 24 Stunden antworten.
+
+Wenn der Konto-Wiederherstellungsprozess nicht innerhalb von 3 Tagen abgeschlossen wird, kann Ihr Amazon-Konto dauerhaft gesperrt werden.
+
+Wir entschuldigen uns für etwaige Unannehmlichkeiten. Vielen Dank für Ihre Aufmerksamkeit und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Das Amazon-Support-Team",no-reply@phishingdetector.com,phishingdetector,com,,"Konto, Klicken",1
+Untersuchter Text,"Bestɑ̈tigen Sie die Liefeɾɑdɾesse füɾ Ihɾ Pɑket
+	
+	
+
+Pɑketzustellung 
+Von:paketzustellung_v1qjmcxkwlbz54s@nationalsboat.de
+ Sie haben (1) Paket, das auf die Zustellung wartet
+Bestätigen Sie die Lieferadresse für Ihr Paket
+Sofort öffnen!
+
+CLICK
+
+",no-reply@phishingdetector.com,phishingdetector,com,,Bestätigen,1
+Untersuchter Text,"📅 Frühbucher-Vorteil: Sichern Sie sich jetzt 15% auf Ihren Mietwagen!
+Urlaubsplanung 
+Von:news@boldinnovations.digital
+
+
+Wir senden Ihnen diese E-Mail, weil Sie zugestimmt haben, Partnerangebote von Mailflow zu erhalten.
+ 
+ 
+ 
+ 
+WÄHLEN SIE EIN Fahrzeug, das IHREN BEDÜRFNISSEN entspricht
+ 
+Ihr nächstes Abenteuer wartet: Sind Sie bereit?
+ 
+ 
+Stadtautos
+ 
+	
+ 
+Elektro
+ 
+	
+ 
+Premium
+ 
+ 
+	
+ 
+ 
+ 
+Finden Sie Ihr nächstes Ziel mit Europcar
+ 
+Planen Sie Ihren Urlaub im Voraus mit unseren exklusiven Angeboten:
+• Genießen Sie außergewöhnliche Rabatte (bis zu 15%*)
+• Reisen Sie stressfrei mit nahtloser Planung
+• Wir sind in über 130 Ländern tätig
+ 
+ 
+ 
+Reisen am Meer
+ 
+Entdecken
+ 
+	
+ 
+Die Stadt erkunden
+ 
+Entdecken
+ 
+ 
+ 
+ 
+Dienstleistungen & Informationen
+ 
+ 
+Stationsfinder 
+ 
+	
+ 
+Häufige Fragen
+ 
+	
+ 
+Kontaktieren
+Sie uns
+ 
+ 
+* Für die vollständigen Bedingungen und Konditionen besuchen Sie bitte die Angebotsseite.
+ 
+
+ 
+
+
+
+
+
+Diese Nachricht wurde Ihnen gesendet, weil Sie sich für den Erhalt unserer E-Mails angemeldet haben oder von einem unserer Partner.
+Wir entschuldigen uns, falls Sie diese E-Mail versehentlich erhalten haben.
+Sie können sich jederzeit über den unten stehenden Link von dieser Liste abmelden oder uns kontaktieren: info@mailflow.agency
+Klicken Sie hier, um diese Nachricht als unaufgefordert zu melden
+Newsletter abbestellen
+",no-reply@phishingdetector.com,phishingdetector,com,,,1
+Untersuchter Text,"Ihr kostenloses Medicare-Set ist bereit – Fordern Sie es noch heute an
+Ihr Medicare-Ratgeber 
+Von:medicare_a9xsxrafkmiohbvv@fatesection.herokussi.com
+ Erhalten Sie Antworten. Finden Sie Sicherheit. Holen Sie sich Ihr Medicare-Set
+
+
+",no-reply@phishingdetector.com,phishingdetector,com,,Sicherheit,1
+Untersuchter Text,"Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-ir2.omega.yahoo.com pod-id atlas--production-ir2-7756564b67-x7dv5.ir2.yahoo.com with HTTP; Wed, 23 Apr 2025 20:13:07 +0000
+Return-Path: <iiAHFfFhZAwYyVAXWkSdnCmulSh@blackstone.starninedata.com>
+X-Originating-Ip: [174.139.31.10]
+Received-SPF: pass (domain of blackstone.starninedata.com designates 174.139.31.10 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-ir2.omega.yahoo.com;
+ dkim=pass header.i=@blackstone.starninedata.com header.s=selector1 arc_overridden_status=NOT_OVERRIDDEN;
+ spf=pass smtp.mailfrom=blackstone.starninedata.com arc_overridden_status=NOT_OVERRIDDEN;
+ dmarc=pass(p=REJECT) header.from=blackstone.starninedata.com arc_overridden_status=NOT_OVERRIDDEN;
+X-Apparently-To: beertothebones@yahoo.de; Wed, 23 Apr 2025 20:13:07 +0000
+X-YMailISG: 7vzknNwWLDvGy27ii74rjhAwvTZwsZ4WoZOOHQo_cLU52Q8j
+ AqY4oxwj5C8LhSDkk8ogkc3K_sWkRGvM0aLjuxO9RF.TDX1IJOwWoXwG4K_H
+ V67AfajEqtdFkuwh2U7WagLKhHJUVx_VHT23n267dNbnIcY13aIaQ19H8RWQ
+ lMnmQIKoyh4tjke4ypQYcwm9XHmOyy2tXG41DuczlPn9E4YqXmSuaPnHVmTC
+ pn7IdxV6TKq_8BCDtoQ51MstFOrdZP1oGIa2gXNcYOF3KqK_OLJPtaAmPUQY
+ IjN.CwZnU7TirM2UZe_VXjv890s1ZgBQuTizZ5Dfne_wS4FXfp_o..xhyZ2t
+ l640TyDSOxpu63y7oF4FKcHzNcbvRG5gZPBjWGHRX.OhOVezFX1BAAoDyepM
+ v1coI6zBpWMGPKNSEkVdqjAs_bd1AnFQaaNynd0ElW6FDJln546MTpzY6tSo
+ _vQF8xuozP9adSZNU1CzTHrHtcNol5b_4MYMfRmWLSrRbdoN3w4H_S2RmDzk
+ Nxi0iMg4HJFJQx7rzc2JSW1YPte2.COCudFUfXJzoogq6KlZH_XLid_Y_Dfv
+ WoZ.EFC7IUjjesxpu9T2MsSS7tsprBxNWKGQ.PKzBkk8AYDL8NLaeFY378zu
+ 5weptAiQMxcO71sNOtNsfryN4.I0xXqM6iYyYeh3ihKUhUo9IfcCu5Se3ie6
+ aipYlsbvs_FvPxrXvqMGDETY6u4aFCSlIAh6lQL2xFML4gVvm86jpagpCTny
+ ihAr8n6xPtmG2V.XdC24jjZh6j.KeLU6u_MSDLss5OIXnubPYkFcn9tRu6EV
+ 6jtLGsvnT3FpGUf2jyYCvYMix0asSt42Pax9.BaZJcrZSZD2WGELo6rmmAbl
+ Z8ZrgrZ5IdFNgFhNkStKPHPZKW7FZcORP6i_fEDkM0DFupnvTGq9VCVvLjmA
+ uqDXsofCJeK4NHW6bvSl_T0706kwal2uhwE2fEKLT5ru2JTWooG2v0unqhM5
+ 9MPqpXGp2n7fUeOAVauH8GclRZcoUUjFtP9yUhEiFM0GHRJ6EbZkkZ7rRZZ8
+ _VnBII_xaMDvZbnRaG4.Z_9d0cpZvsxXDeypQ8OUhgG17ieGdzpCe1dUh0rR
+ TsSAMtkhymUpqPnrUjDBumTjOP4c_4WGnuScIYqHRcuXsmzxyfc6rFJRr5Rv
+ jmFcDJ96_Dtt6H6KoH9g0kSZPT1OTlkHD4re819Q
+Received: from 174.139.31.10 (EHLO eatonville.wednet.edu)
+ by 10.200.79.45 with SMTP;
+ Wed, 23 Apr 2025 20:13:07 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector1; d=blackstone.starninedata.com;
+ h=From:Reply-To:Subject:Date:To:Content-Type:Content-Transfer-Encoding; i=iiAHFfFhZAwYyVAXWkSdnCmulSh@blackstone.starninedata.com;
+ bh=2kyRUTeZmCyeHZWg9Pn5i/8NXUs=;
+ b=ZGgKNEni4WmMAOxpB/tm8weusFMNiMxU7f6C8JqVV7t/Vxz+yO9yRXWSf/0caUkCkzxmd891RJs8
+   TdhoA7zXUUKihOUIvjahVaUnPOFTD3912jSRZFPQZyaUl7RKgF1o/3JcT6CfpL+QqQ7SLBXdC/Fm
+   Ll6tWq6wT+XRc6a6Luo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector1; d=blackstone.starninedata.com;
+ b=V5BlGb8jKirxFk6fiifRdJqOR4FGA24tRh1uSTsp3C5dsICxvUJN114lIe8wYrarVkEQnQ0BvL0w
+   KH8GLv6yNo3NFjVZqo7eIxIVMptax02qegsjS2oiNPyi3mRvyOGbcXyte9N9Sz49VnP6WGvK2C0W
+   /H4wVXwRzhiz7iS4zbI=;
+From: ""Besttigung  22"" <iiAHFfFhZAwYyVAXWkSdnCmulSh@blackstone.starninedata.com>
+Reply-To: <phonoglyphelectroosmotically@hill.emailgids.net>
+Subject:Dringend! Ihr Gert wurde kompromittiert! Schtzen Sie sich JETZT!
+Date: Wed, 23 Apr 2025 20:13:07 +0000 (UTC)
+To: ""beertothebones@yahoo.de""
+Content-Type:  multipart/alternative;
+                       boundary=""--UVZ2UNMN6XLV4EW8YUOOWE3EZPLGJFOLWCD1YWM0FNY1CPL0UUAZUG959BGEBFGZ0E08ZWR9C2YCBPWL3""
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 4757
+
+----UVZ2UNMN6XLV4EW8YUOOWE3EZPLGJFOLWCD1YWM0FNY1CPL0UUAZUG959BGEBFGZ0E08ZWR9C2YCBPWL3
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+<body style=""margin: 0;padding: 0;font-family: Arial, sans-serif;background-color: rgb(245, 245, 245);"">
+<img src=""http://emailgids.net/BuNW2JuAEEn.cfm?DJLxiVFgx_gAAAAABoCUnTlpw-9D92pNPQz22x8sJLHiB0PXVFa4db3XcX5ybziTPNAMfIstulTvEuxB2fH--0JdQrm3yeLFwtLoHAxgaKyGFpVqWmxhZcSS3zjssvvAKJUxXgKWx_psdroJWWPhITmwzpdFa4aUhBnphpISN6AQ=="" width='1' height='1'>
+<div style=""padding: 20px;border-radius: 10px 10px 0 0;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);max-width: 600px;margin: auto;color: white;line-height: 30px;font-weight: bold;border-bottom: 1px solid #ccc;"">
+</div>
+  <div style=""padding: 20px;border-radius: 10px 10px 0 0;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);max-width: 600px;margin: auto;background-color: #fff;color: white;line-height: 30px;font-weight: bold;text-align: center;border-bottom: 1px solid #ccc;"">
+<a href=""http://emailgids.net/BuNW2JuAEEn.php4?VXjkWqs_gAAAAABoCUnTMYu9uQTT1_C9HpIuLEBhlcmRKr_A8WediTwZsAovs9UkXH8_HzqLibchnmxH_hd7IhBw9L1IwhyQKWyLVtC-wqO5-egR3ZoAcv0ADGXuo80-gbQjVIEbBkeP65pmHr3TW3t4ienJNNR3hRo7ZgfSfQ=="" style=""text-decoration:none;"">
+<h2 style=""font-size: 24px;margin-bottom: 10px;color: #1f799e ;""><span>McAfee â€“ Mitgliedschaft abgelaufen<br>
+Ihre Mitgliedschaft endete am 23.04.2025.<br>[ Letzte AnkÃ¼ndigung ]</h2>
+</a>
+</div>
+  <div style="" max-width: 600px;margin: auto;padding: 20px;background-color: white;border-radius: 0 0 10px 10px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"">
+    <table style=""width: 100%;font-size: 16px;color: #333333;border-collapse: collapse;border: 1px solid #ccc;border-radius: 8px;overflow: hidden;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"">
+      <tr>
+        <th style=""background-color: #1f799e ;color: #fff;height: 30px;line-height: 30px;font-weight: bold;text-align: center;border-bottom: 1px solid #ccc;"" colspan=""2"">Kontoinformationen</th>
+      </tr>
+      <tr>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">Konto-ID:</td>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">DE4983902</td>
+      </tr>
+      <tr>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">Benutzer:</td>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">Beertothebones</td>
+      </tr>
+      <tr>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">Rabatt:</td>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">90%</td>
+      </tr>
+      <tr>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">Datum lÃ¤uft ab</td>
+        <td style=""height: 20px;background-color: rgb(247, 247, 247);padding: 8px;text-align: left;border-bottom: 1px solid #ccc;"">23-04-2025</td>
+      </tr>
+    </table>
+    <p style=""font-size: 16px;line-height: 1.5;margin-top: 20px;color:black"">
+     
+Wir haben mehrmals versucht, Sie bezÃ¼glich bestimmter Benachrichtigungen und Nachrichten zu Ihrem Konto zu kontaktieren, haben aber leider keine Antwort erhalten.<br><br>
+
+Wir empfehlen Ihnen dringend, Ihr Abonnement zu verlÃ¤ngern, um Ihre digitale Sicherheit weiterhin vor Online-Bedrohungen und potenziellen Hackern zu schÃ¼tzen.<br><br>
+Wenn Sie Ihre Mitgliedschaft nicht innerhalb der nÃ¤chsten 48 Stunden verlÃ¤ngern, beachten Sie bitte, dass Ihr Konto mÃ¶glicherweise gesperrt wird..<br>
+
+<a href=""http://emailgids.net/BuNW2JuAEEn.php4?VXjkWqs_gAAAAABoCUnTMYu9uQTT1_C9HpIuLEBhlcmRKr_A8WediTwZsAovs9UkXH8_HzqLibchnmxH_hd7IhBw9L1IwhyQKWyLVtC-wqO5-egR3ZoAcv0ADGXuo80-gbQjVIEbBkeP65pmHr3TW3t4ienJNNR3hRo7ZgfSfQ=="" style=""text-decoration:none;"">
+    <span style=""display: block;width: 220px;margin: 20px auto;padding: 10px 20px;background-color: #1f799e ;color: #fff;text-align: center;text-decoration: none;border-radius: 5px;font-weight: bold;"">SchÃ¼tzen Sie Ihr GerÃ¤t</span></a>
+    </p>
+
+
+  </div>
+<td class=""em_hide"" style=""line-height: 1px; min-width: 600px;"" bgcolor=""#f9fafc""><img class=""adapt-img"" src="""" alt="""" width=""1px"" height=""1px"" style=""display:block;font-size:14px;border:0;outline:none;text-decoration:none""></a>
+</td>
+</body>
+</html>
+
+
+----UVZ2UNMN6XLV4EW8YUOOWE3EZPLGJFOLWCD1YWM0FNY1CPL0UUAZUG959BGEBFGZ0E08ZWR9C2YCBPWL3--
+",no-reply@phishingdetector.com,phishingdetector,com,"http://emailgids.net/BuNW2JuAEEn.cfm?DJLxiVFgx_gAAAAABoCUnTlpw-9D92pNPQz22x8sJLHiB0PXVFa4db3XcX5ybziTPNAMfIstulTvEuxB2fH--0JdQrm3yeLFwtLoHAxgaKyGFpVqWmxhZcSS3zjssvvAKJUxXgKWx_psdroJWWPhITmwzpdFa4aUhBnphpISN6AQ==, http://emailgids.net/BuNW2JuAEEn.php4?VXjkWqs_gAAAAABoCUnTMYu9uQTT1_C9HpIuLEBhlcmRKr_A8WediTwZsAovs9UkXH8_HzqLibchnmxH_hd7IhBw9L1IwhyQKWyLVtC-wqO5-egR3ZoAcv0ADGXuo80-gbQjVIEbBkeP65pmHr3TW3t4ienJNNR3hRo7ZgfSfQ==, http://emailgids.net/BuNW2JuAEEn.php4?VXjkWqs_gAAAAABoCUnTMYu9uQTT1_C9HpIuLEBhlcmRKr_A8WediTwZsAovs9UkXH8_HzqLibchnmxH_hd7IhBw9L1IwhyQKWyLVtC-wqO5-egR3ZoAcv0ADGXuo80-gbQjVIEbBkeP65pmHr3TW3t4ienJNNR3hRo7ZgfSfQ==",,1
+Untersuchter Text,"NETTO-Angebot für
+Anna, Kundenservice 
+Von:news@curiousminds.digital
+Hallo ,
+
+Leider konnten wir Sie bisher nicht erreichen, um ihnen bei der Einlösung Ihres 250€ Netto-Gutscheins zu helfen.
+
+Ab nächster Woche werden alle nicht eingelösten Gutscheine an andere Gewinner verschenkt.
+
+Wenn Sie diese E-Mail empfangen haben, dann verlieren Sie keine Zeit mehr und bestätigen Sie ihren Gutschein: Netto-Gutschein 250€.
+
+Diese Chance ist Ihnen unter Tausenden von Netto-Kunden vorbehalten. Verpassen Sie sie nicht. Klicken Sie hier:
+Netto-Gutschein 250€.
+
+Mit freundlichen Grüßen
+Charlotte Hermann
+- Kundendienst -
+ 
+ 
+» BESTÄTIGEN «
+
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+
+
+Achtung: Der Werbetreibende hat Ihre E-Mail-Adresse nicht.
+
+newsletter von: KJM, Dimotikis Agoras 20, Larnaca 6021, Cyprus
+
+Klicken Sie hier, um diese Nachricht als unaufgefordert zu melden.
+
+Newsletter abbestellen
+ 
+",no-reply@phishingdetector.com,phishingdetector,com,,Bestätigen,1
+Untersuchter Text,"🍀 Jetzt 11 € Glückskarte einlösen: 6 Felder EuroJackpot für nur 1 €!
+EUROJACKPOT GLÜCKSKARTE 
+Von:news@showconnect.digital
+Lottohelden
+Ihre Gutscheinkarte für EuroJackpot!
+Hallo,
+
+ein glücklicher Gewinner aus Schweden hat letzte Woche den gigantischen 115 Mio € Jackpot geknackt – vielleicht sind Sie der nächste Gewinner?
+
+Lösen Sie jetzt Ihre 11 € Glückskarte ein und spielen Sie 6 Felder EuroJackpot für nur 1 € (statt 12 €). Lassen Sie sich diese Chance nicht entgehen!
+Jetzt einlösen
+Lottohelden­.de –
+Einfach, sicher, günstig!
+🏆 Vielfach prämierter Testsieger 	✔️ Sicher mit Trusted Shops geprüft 	📜 Staatlich lizenziert und kontrolliert
+ 
+
+Spielen Sie bitte alle bei Lottohelden­.de angebotenen Lotterien mit Verantwortung. Spielteilnahme ab 18! Spielen kann süchtig machen. Hilfe: www.lottohelden.de/ spielsucht praeventionen/
+
+© Lottohelden­.de, 2025
+Bitte beachten Sie, dass diese E-Mail nicht von Lottohelden­.de direkt versendet worden ist und Lottohelden­.de keinen Einfluss auf den Empfänger­kreis hat. Möchten Sie sich aus diesem Verteiler abmelden, wenden Sie sich bitte direkt an den Absender.
+Informationen
+Sie haben diese Nachricht erhalten, weil Sie auf der Promo News Germany-Liste (im Besitz von Infomúsica Ltd) registriert sind.
+Verantwortlich für den E-Mail-Versand und die Speicherung Ihrer Daten ist die Infomusica Ltd.
+Bei Fragen wenden Sie sich bitte direkt an uns.
+E-mail: user [@] infomusica-media[.]com
+Infomúsica Ltd, Av. David Mourão Ferreira 23A, 1750-209 Lisboa, Portugal
+
+
+Klicken Sie hier, um diese Nachricht als unaufgefordert zu melden
+
+Um in Zukunft auf weitere Mails von uns zu verzichten, können sich sich hier jederzeit abmeld",no-reply@phishingdetector.com,phishingdetector,com,,,1
+Untersuchter Text,"Tue, 01 Apr 2025 16:57:22 +0000 (UTC): 1000,00 $💸 Anzahlung an Sie gesendet 💲💰ID71884742.
+fitnesslife12copy@cohenhome.bstonlogic.com
+PayPal
+
+Habe dir Geld geschickt
+Sie können Ihre $1000.00Vorausbezahlt Karte jetzt
+
+
+
+Transaktionsdetails
+
+Transaktions-ID 	Transaktionsdatum
+07044288 	Today
+
+
+Erhaltener Betrag 	$1000.00
+
+Akzeptieren Sie Ihr Geld bis diesen Monat. Klicken Sie auf die Schaltfläche unten, um zu beginnen.
+
+
+
+
+Akzeptiere das Geld
+
+Ihre Kontoinformationen:
+Name: 
+E-Mail: 
+Auszahlungsüberprüfung: $1000 PAYOUT",no-reply@phishingdetector.com,phishingdetector,com,,Klicken,1
+Untersuchter Text,"Letzte Erinnerung: Beertothebones, erneuern Sie noch heute Ihr McAfee-Abonnement!
+Yahoo/Spam
+
+Mcafee 
+Von:officiel@citybest.spectra7licensing.com
+An:beertothebones@yahoo.de
+Mi., 2. Apr. um 17:23
+Aus Sicherheitsgründen haben wir alle Bilder und Links in dieser E-Mail deaktiviert. Wenn Sie glauben, dass die Nachricht sicher ist, markieren Sie sie als „kein Spam“.
+
+
+Ihr McAfee-Abonnement ist abgelaufen
+Dringend: Ihr Abonnement ist abgelaufen! Sie haben 24 Stunden um Ihren Schutz zu erneuern und aufrechtzuerhalten.
+
+Ihr Abonnement für McAfee Total Protection für Windows ist abgelaufen am 04/03/2025.
+
+Ohne Erneuerung, Ihre Geräte können anfällig für Viren, Malware und Identitätsdiebstahl werden.
+
+Sofortiges Handeln erforderlich! Ihre Geräte sind ungeschützt und gefährdet...
+Konto-ID: 	4332500US
+Benutzer: 	Beertothebones
+Seriennummer: 	RPTS JI89 DWJR QNK8
+Rabatt: 	95.99% OFF
+Angebot gültig bis: 	04/03/2025
+JETZT VERLÄNGERN
+
+Dear Beertothebones,
+
+Trotz mehrfacher Benachrichtigungen und Warnungen haben wir keine Antwort erhalten. Ihr Schutz vor Cyberbedrohungen ist ernsthaft gefährdet.
+
+Erneuern Sie Ihr Abonnement umgehend, um einen ununterbrochenen Schutz vor Cyberangriffen und Hackern sicherzustellen. Ihre Sicherheit hat für uns höchste Priorität.",no-reply@phishingdetector.com,phishingdetector,com,,"Dringend, Sicherheit",1
+Untersuchter Text,"Wir haben deinen Account gesperrt! Am 10 . April 2025 werden deine Bilder und Videos gelöscht. Tu etwas!
+Zahlung abgelehnt 
+Von:fitnesslife12copy@cohenhome.bstonlogic.com
+Wir haben Ihr Konto gesperrt! Am 10.04.2025 werden Ihre Bilder und Videos gelöscht. Tu etwas!",no-reply@phishingdetector.com,phishingdetector,com,,Konto,1
+Untersuchter Text,"Wichtiges Update zu Ihrem Abonnement \""Microsoft 365 Single\""
+Microsoft 	
+Wichtiges Update zu Ihrem Abonnement \""Microsoft 365 Single\""
+
+Wir hoffen, dass Ihnen die Testversion für Microsoft 365 Single gefällt, die am Mittwoch, Februar 5, 2025 gestartet wurde.
+
+Wir möchten Sie darüber informieren, dass Ihr Testzeitraum bald endet. Sofern Sie nicht zwei Tage vor dem Samstag, Mai 3, 2025 kündigen, werden alle Monat EUR 10.00 einschließlich Steuern über Ihre Zahlungsmethode \""PayPal\"" abgerechnet.
+
+Wenn sich dieser Preis ändern sollte, werden wir Sie informieren. Sie können jederzeit kündigen, um zukünftige Gebühren zu vermeiden, oder die Zahlungsweise ändern, indem Sie Ihr Abonnement in Ihrem Microsoft-Konto verwalten.
+	
+Abonnements verwalten >
+	
+
+Erfahren Sie mehr über das Kündigen Ihres Abonnements.
+	
+
+Fanden Sie diese E-Mail hilfreich? Ja Nein
+	
+
+Datumsangaben werden gemäß „Koordinierte Weltzeit“ angezeigt. Das Bestelldatum kann basierend auf Ihrem Standort variieren.
+	
+
+Datenschutzerklärung
+
+Microsoft Corporation, One Microsoft Way, ​Redmond, WA 98052​
+Microsoft 	",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Dringend! Ihr Gert wurde kompromittiert! Schtzen Sie sich JETZT!,"McAfee â\u20ac\u201c Mitgliedschaft abgelaufen
+Ihre Mitgliedschaft endete am 23.04.2025.
+[ Letzte AnkÃ¼ndigung ]
+Kontoinformationen
+Konto-ID:
+DE4983902
+Benutzer:
+Beertothebones
+Rabatt:
+90%
+Datum lÃ¤uft ab
+23-04-2025
+Wir haben mehrmals versucht, Sie bezÃ¼glich bestimmter Benachrichtigungen und Nachrichten zu Ihrem Konto zu kontaktieren, haben aber leider keine Antwort erhalten.
+Wir empfehlen Ihnen dringend, Ihr Abonnement zu verlÃ¤ngern, um Ihre digitale Sicherheit weiterhin vor Online-Bedrohungen und potenziellen Hackern zu schÃ¼tzen.
+Wenn Sie Ihre Mitgliedschaft nicht innerhalb der nÃ¤chsten 48 Stunden verlÃ¤ngern, beachten Sie bitte, dass Ihr Konto mÃ¶glicherweise gesperrt wird..
+SchÃ¼tzen Sie Ihr GerÃ¤t","""Besttigung  22"" <iiAHFfFhZAwYyVAXWkSdnCmulSh@blackstone.starninedata.com>",com>,,,"Konto, Dringend",1
+Untersuchter Text,"Ihr ALDI-Gutschein wartet auf Sie,
+Kundendienst 2025_4XCT56 
+Von:news@skillforge.digital
+Ihre Chance auf fantastische Preise!
+ 
+ 
+ 
+ 
+Hallo,
+
+Wir freuen uns, dass Sie zu uns gestoßen sind. Um Ihre Reise zu beginnen, bieten wir Ihnen eine aufregende Chance, groß zu gewinnen: ALDI-Gutscheine im Wert von 500€!
+
+Die Teilnahme ist ganz einfach:
+
+1.Klicken Sie auf den Button unten.
+
+2.Füllen Sie das Teilnahmeformular aus.
+
+3.Halten Sie die Daumen gedrückt!.
+
+Mit etwas Glück gehören Sie zu den glücklichen Gewinnern, die ihren Gutschein in ihrem Lieblings-ALDI-Markt einlösen können.
+
+Wir freuen uns darauf, Ihren Gewinn gemeinsam mit Ihnen zu feiern!
+
+Mit freundlichen Grüßen,
+Ihr Supermarkt-Team
+ 
+ 
+Hier klicken >
+ 
+
+
+
+Suzess Mkt, 4th Floor, 33 Cannon St, London EC4M 5SB, UK
+
+Klicken Sie hier, um diese Nachricht als unaufgefordert zu melden
+
+Newsletter abbestellen",no-reply@phishingdetector.com,phishingdetector,com,,Klicken,1
+Untersuchter Text,"Dein Traum von einer Luxuskreuzfahrt könnte wahr werden! 🚢✨
+🏝️ Reise deines Lebens 
+Von:news@studystream.digital
+Hallo!
+
+Stell dir vor: 14 unvergessliche Tage auf einer luxuriösen AIDA-Kreuzfahrt – und das völlig kostenlos! 🌊🏝️
+
+Mit etwas Glück kannst du dieses unglaubliche Abenteuer erleben. Alles, was du tun musst, ist an unserem exklusiven Gewinnspiel teilzunehmen!
+
+Klicke jetzt auf den Button unten und sichere dir deine Chance auf die Reise deines Lebens! 🚢✨
+
+Aber beeile dich – die Zeit läuft! ⏳
+ 
+ 
+ 
+Bestätigung ›
+ 
+
+
+
+
+ 
+
+
+newsletter von. AHJ marketing, 10A Rue des Mérovingiens, 8070 Bertrange, Luxembourg
+
+Klicken Sie hier , um diese Nachricht als unaufgefordert zu melden
+
+Newsletter abbestellen",no-reply@phishingdetector.com,phishingdetector,com,,,1
+Sofort einlösen: Ihr ALDI-Gutschein wartet!🛒,"  
+
+ 		Ihre Chance auf fantastische Preise!
+[https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9]
+
+ [https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9]
+
+
+ 		 
+
+ 		 
+
+ 		 
+
+ 		 
+
+ HALLO,
+
+Wir freuen uns, dass Sie zu uns gestoßen sind. Um Ihre Reise zu
+beginnen, bieten wir Ihnen eine aufregende Chance, groß zu gewinnen:
+ALDI-Gutscheine im Wert von 500€!
+[https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9]
+
+Die Teilnahme ist ganz einfach:
+
+1.Klicken Sie auf den Button unten.
+
+2.Füllen Sie das Teilnahmeformular aus.
+
+3.Halten Sie die Daumen gedrückt!.
+
+Mit etwas Glück gehören Sie zu den glücklichen Gewinnern, die ihren
+Gutschein in ihrem Lieblings-ALDI-MARKT einlösen können.
+
+Wir freuen uns darauf, Ihren Gewinn gemeinsam mit Ihnen zu feiern!
+
+Mit freundlichen Grüßen,
+Ihr Supermarkt-Team 
+
+ 		 
+
+ 		 
+
+ 		Hier klicken >
+[https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9]
+
+ 		 
+
+Suzess Mkt, 4th Floor, 33 Cannon St, London EC4M 5SB, UK
+
+Klicken Sie hier
+[https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/d62014833a583341e8fd4593134fccd9af33a91c],
+um diese Nachricht als unaufgefordert zu melden
+
+Newsletter abbestellen
+[https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/3941e7344fc26403c677cedd24fef318bd9cf840]
+
+ 
+",Anna - Kundendienst 2025 <news@baliwanderlust.digital>,digital>,,"https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9], https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9], https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9], https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/984791bb4dd6d45f4dca3859eb13cf5c009c69e9], https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/d62014833a583341e8fd4593134fccd9af33a91c],, https://t.baliwanderlust.digital/index.php/campaigns/hs817bc6ede39/track-url/ep0353qj4va84/3941e7344fc26403c677cedd24fef318bd9cf840]",Klicken,1
+Untersuchter Text,"Hast du gewonnen?
+ Ist heute
+dein Glücks-Tag?
+ 
+Lieber,
+
+die Gewinner*innen der Extra-Ziehung stehen fest! Sieh gleich nach, ob du gewonnen hast.
+Gewinnzahlen prüfen 	
+
+Du hattest dieses Mal leider kein Glück? Dann gibt es trotzdem Grund zum Freuen: Am 5.9. gibt es schon die nächste Extra-Ziehung mit doppelter Chance.
+
+Dafür drücken wir dir die Daumen!
+Deine Aktion Mensch
+Unsere Gewinnzahlen
+vom 06.08.2023
+ 
+
+Hat dein Los gewonnen?
+Finde es jetzt heraus:
+Zur Online-Gewinnabfrage 	
+
+Hol dir dein Los auch auf dein Smartphone und prüfe jederzeit und überall, ob du gewonnen hast.
+  Zur Gewinnabfrage in unserer App
+Die Lose der Aktion Mensch - zur Online-Gewinnabfrage
+Mitmachen und
+Gutes tun.
+ 
+Ein Mann im Rollstuhl lacht eine Frau an, die neben ihm kniet. Im Hintergrund sieht man das Werbeschild eines Cafés.
+
+Du möchtest dich ehrenamtlich engagieren, aber dir fehlen konkrete Anlaufstellen? In unserer Engagement-Plattform findest du zahlreiche Möglichkeiten für ehrenamtliche Mitarbeit in deiner Nähe. Eine Liste aus Projekten, Initiativen und Aktionen zeigt dir, wo und wie du aktiv werden und Gutes tun kannst.
+Jetzt engagieren 	
+Der Rollstuhl
+muss sitzen...
+ 
+Kinder spielen gemeinsam. Ein Kind sitzt im Rollstuhl.
+
+...denn er ist für viele Menschen mit Behinderung ein wichtiges Hilfsmittel im Alltag. Heutzutage gibt es viele verschiedene Ausfertigungen und Funktionen: E-Rolli, Radnabenantrieb, Sportrollstuhl und vieles mehr. Wir geben dir einen Überblick!
+Mehr erfahren 	
+Ein Eismobil
+für Inklusion.
+ 
+Ein Mann sitzt auf einem Lastenfahrrad. Vorne ist eine große Truhe für Eis montiert, darauf der Schriftzug ""Konfetti Eismanufaktur."" Im Hintergrund sieht man eine Parkanlage mit Springbrunnen.
+
+Das Café ""Konfetti"" ist in Erfurt nun in der ganzen Stadt mit Eis und Gebäck unterwegs. Dank deines Loskaufs konnte ein neues Eis-Mobil angeschafft werden, mit dem die Mitarbeitenden mit und ohne Behinderung den Kund*innen eine kühle Erfrischung bringen können. So gelingt Inklusion am Arbeitsplatz!
+Noch mehr Projekte 	",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Untersuchter Text,"Dein Paket wurde zugestellt 🎉
+ refurbed
+
+Dein Paket
+
+wurde zugestellt 
+
+Hallo Peter,
+
+dein Paket wurde erfolgreich zugestellt.
+
+In deinem Konto kannst du:
+
+    Bestellbestätigung und Rechnung als PDF herunterladen
+    Bestelldetails ansehen
+    Partner kontaktieren 
+
+Dein Konto
+🚚 	Bitte beachte: Unsere Produkte werden von verschiedenen Partnern verkauft und möglicherweise in getrennten Sendungen an dich verschickt. Es kann einige Zeit dauern, bis die Tracking-Informationen aktualisiert werden.
+ 
+
+Brauchst du Hilfe mit etwas, Peter
+
+Für Hilfe zu deiner Bestellung melde dich einfach in deinem Konto an und klicke auf 'Hilfe erhalten'.
+
+Vergiss nicht, dein Passwort unter 'Kontoeinstellungen' festzulegen, um den Zugriff nicht zu verlieren.
+
+In deinem refurbed Konto kannst du:
+
+👉 Deine Bestellung verwalten
+👉 Rechnungen und Bestätigungen abrufen
+👉 Deinen Verkäufer um Hilfe bitten
+👉 Dein altes Gerät verkaufen
+Zum Konto
+	
+  FAQ  
+
+Für andere Fragen besuche unsere Kontaktseite.
+Dein Beitrag für die Umwelt
+E-waste
+134 g Elektroschrott gespart*
+	
+CO2 saved
+59 kg CO2 gespart*
+	
+Water saved
+22711 l Wasser gespart*
+
+Hat dir diese E-Mail gefallen?
+
+Gib uns Feedback!
+ 
+Nein 👎
+	
+Ja 👍
+ 
+Rethink New.
+Facebook 	Instagram 	YouTube 	LinkedIn 	TikTok 	Twitter
+Hol dir die refurbed-App: iOS | Android
+Du möchtest die E-Mail online ansehen? Webansicht
+Dies ist eine automatisch versendete Nachricht. Diese E-Mail enthält wichtige Informationen zu deinem refurbed Konto, deinem letzten Kauf oder dem Paketversand.
+Refurbed Marketplace GmbH
+Jakov-Lind-Straße 7, 1020 Vienna, Austria
+*Ersparnisse im Vergleich zu Neukäufen basieren auf Umweltdaten aus einem von Fraunhofer Austria entwickelten Berechnungsmodell, das gemäß ISO 14040/44 verifiziert wurde. Mehr Informationen findest du auf unserer Nachhaltigkeitsseite. ",no-reply@phishingdetector.com,phishingdetector,com,,Konto,0
+Untersuchter Text,"Ihre Kündigung Ihres VRN-Abonnements mit der Abonummer ist eingegangen
+Bestätigung der Kündigung Ihres VRN-Abonnements
+Abonummer: 
+
+Hallo Herr,
+
+wir bedauern sehr, dass Sie unser Angebot nicht weiter nutzen möchten.
+	
+
+Abrechnungsdetails
+Im Anhang erhalten Sie die Bestätigung zu Ihrer Kündigung. Darin finden Sie alle Abrechnungsdetails.
+	
+
+Ihr Abo endet am 31.05.2025
+Sie können Ihr Abo selbstverständlich bis zum Ende der Laufzeit weiter nutzen.
+
+Wenn Sie Ihr Abonnement doch fortsetzen wollen, können Sie über die Funktion „Abo reaktivieren“ Ihr gekündigtes Abonnement zu den für den jeweiligen Abonnement-Zeitraum geltenden Tarifbedingungen erneuern.
+
+Wir wünschen Ihnen eine gute Fahrt.
+Ihr Abo-Team
+		
+Mehrfahrten-Tickets
+
+Sie pendeln regelmäßig auf der gleichen Strecke - aber nicht jeden Tag? Sparen Sie mit den Mehrfahrten-Tickets für Pendler.
+Infos zu Mehrfahrten-Tickets
+Rechtliches
+
+Zu Ihrer und unserer Sicherheit wurde Ihre IP-Adresse und der Zeitpunkt Ihrer Meldung gespeichert.
+		
+Entdecken Sie den DB Navigator
+apple store google store huawei store
+		
+© Deutsche Bahn AG   AGB   Nutzungsbedingungen   Datenschutz Abo   Impressum
+abo.bahn.de — Alle Ihre Abos im Überblick 	abo.bahn.de - Alle Ihre Abos im Überblick
+
+",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Untersuchter Text,"WINGSPAN (FLÜGELSCHLAG) auf Ihrer Steam-Wunschliste ist jetzt im Angebot!
+1 SPIEL AUF IHRER WUNSCHLISTE IST IM ANGEBOT!
+WINGSPAN (FLÜGELSCHLAG)
+-50% 	19,99€  9,99€
+		
+SONDERANGEBOT! Angebot endet am 4. Sep. 7:00pm CEST
+(Wingspan) Flügelschlag ist ein entspannendes, preisgekröntes Strategie-Kartenspiel über Vögel für 1 bis 5 Spieler. Jeder ausgespielte Vogel ermöglicht eine Kette mächtiger Kombinationen in einem deiner drei Lebensräume. Dein Ziel ist es, die besten Vogelarten in deine Naturschutzgebiete zu locken.
+Wunschliste anzeigen
+Preise und Rabatte können sich jederzeit ändern. Bitte rufen Sie die Steam-Shopseite auf, um aktuelle Informationen zu erhalten.
+
+Sie erhalten diese E-Mail, weil sich der obige Artikel auf Ihrer Wunschliste befindet. ",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Untersuchter Text,"Entdecken Sie die exklusiven Angebote einer eToro Club-Mitgliedschaft
+ Hallo,
+ich bin Alexander Kramarenko, Account Manager bei eToro. 
+Ich schreibe Ihnen, um Ihnen mitzuteilen, dass Mitglieder des eToro Clubs von verschiedenen Angeboten profitieren, darunter einem persönlichen Account Manager und exklusiven Live- Webinaren.
+
+Darüber hinaus können Clubmitglieder jetzt 2% - 5% Jahreszinsen auf das nicht investierte Barkapital erhalten.
+ 
+Ich würde mich gerne mit Ihnen über Ihr Konto unterhalten und Ihnen mehr über den eToro Club erzählen. Sobald Sie die Zeit finden, können Sie einen Anruf  mit mir vereinbaren und ich melde mich bei ihnen, oder Sie können mich auch gerne per WhatsApp kontaktieren.
+Viele Grüße, Alexander Kramarenko",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Untersuchter Text,"Extended Sale für die nächsten 24h 🥳
+Hey,
+
+
+unser Birthday Sale ist bereits vorbei und wir freuen uns bereits auf das nächste Jahr mit Euch. 
+
+
+Hast Du unseren Sale verpasst? 
+
+In diesem Fall haben wir etwas für Dich:) 
+
+Ausnahmsweise kannst Du für weitere 24 Stunden auf unsere Birthday Sale Aktionen zugreifen. 
+
+Nutze einfach den Code EXTEND im Checkout und erhalten 20% auf alle Produkte (ausgenommen Abos). 
+JETZT SHOPPEN
+
+DEINE SPECIAL DEALS
+Birthday Special Scindapsus Pictus Jade Satin Variegata + gratis Philodendron Gloriosum White Veins M
+
+Birthday Special Scindapsus Pictus Jade Satin Variegata + gratis Philodendron Gloriosum White Veins M
+ZUM DEAL
+	
+Birthday Special Monstera Karstenianum 'Peru' Variegata + gratis Anthurium Crystallinum Silver Blush M
+
+Birthday Special Monstera Karstenianum 'Peru' Variegata + gratis Anthurium Crystallinum Silver Blush M
+ZUM DEAL
+
+Exklusive Birthday Deals
+
+Nur solange der Vorrat reicht. Zusätzlich zu den Rabatten erhältst Du bei diesen Angeboten jeweils eine gratis Pflanze dazu!
+ZU DEN BIRTHDAY DEALS
+Birthday Special Alocasia Frydek Variegata - Babypflanze + gratis Philodendron White Wizard
+
+Birthday Special Alocasia Frydek Variegata - Babypflanze + gratis Philodendron White Wizard
+	
+Birthday Special Alocasia Micholitziana 'Frydek' + gratis Philodendron Billietiae
+
+Birthday Special Alocasia Micholitziana 'Frydek' + gratis Philodendron Billietiae
+Birthday Special Philodendron El Choco Red + gratis Philodendron Mamei Silver Cloud
+
+Birthday Special Philodendron El Choco Red + gratis Philodendron Mamei Silver Cloud
+	",no-reply@phishingdetector.com,phishingdetector,com,,,0
+Untersuchter Text,"Wir haben versucht, Ihr Amazon-Paket zuzustellen
+Hallo,
+Leider ist bei DHL ein Problem beim Zustellversuch aufgetreten. Der Transportdienst wird einen weiteren Zustellversuch unternehmen.
+Wenn Sie weitere Informationen benötigen, wenden Sie sich an DHL.
+Verfolgen Sie Ihre Lieferung
+	VitaFeel Wasserstoffperoxid 3% Lösung 5000 ml...
+  	  	 
+ 
+Bestellung 
+Dies ist eine automatisch versendete E-Mail. Bitte antworten Sie nicht auf diese Nachricht, da die E-Mail-Adresse nicht zum Empfang von E-Mails eingerichtet ist.",no-reply@phishingdetector.com,phishingdetector,com,,Problem,0
+Untersuchter Text,"🌽Nach dem Sprühen,💋 musst du nur 2 Sekunden warten, damit dein 🍆Penis sich aufrichtet!🍌
+SEX-GEHEIMNISSE 
+Von:sex@sex.de
+DIE Lösung! Endlich!
+
+Wenn Sie nach einem Mittel suchen, das schnell und zuverlässig wirkt und Ihnen vor allem eine mega-harte Erektion garantiert,
+dann ist Spray X das Richtige für Sie!
+Hunderte von Personen weltweit haben es erfolgreich getestet. Nun ist es endlich in Europa verfügbar.
+
+1- SIE SPRÜHEN...
+2- IHR GLIED WIRD STEIF!
+	
+	
+
+Ein einzigartiges Angebot!
+
+Probieren Sie es in aller Ruhe zu Hause aus. Ganz ohne Risiko, dank unserer Sicherheitsgarantie.
+
+Spektakuläre Ergebnisse!
+	
+	
+
+Wie funktioniert es?
+
+    SIE HABEN LUST AUF SEX, ABER SIE HABEN KEINE EREKTION
+    SPRÜHEN SIE EIN WENIG SPRAY X AUF
+    DIE EREKTION STELLT SICH SOFORT EIN UND HÄLT ÜBER STUNDEN HINWEG AN
+
+	
+
+Sie berichten....
+
+„Seit Jahren hatte ich Erektionsprobleme, ich hielt mich schon für impotent. Ich habe viele Produkte ausprobiert, ohne großen Erfolg. Spray X hat mir zu der bombastischsten Erektion meines Lebens verholfen und mir wieder Selbstvertrauen gegeben! Danke...„
+	
+
+Garantiertes Ergebnis!
+
+„Sollten Sie aus irgendeinem Grund nicht zu 100 % mit den dank Spray X ierzielten Ergebnissen zufrieden sein, schicken Sie uns das Spray einfach zurück, und wir erstatten Ihnen Ihr Geld in voller Höhe. Es werden Ihnen keine Fragen gestellt.„
+Eugen Fischer, Leiter des Zentrums
+	
+	
+
+Auch für Frauen!
+
+Vergnügen Sie sich damit, Ihre Partnerin noch stärker zu erregen...
+Mit Spray X, verschaffen Sie ihr noch mehr Lust und noch mehr Vergnügen!
+	
+	
+ 
+
+click Klicken Sie hier, um sich aus unserer E-Mail-Liste zu entfernen ",no-reply@phishingdetector.com,phishingdetector,com,,,1
+Untersuchter Text,"jobvector: Bestätigung Deiner Registrierung auf jobvector.de
+
+
+jobvector
+Bestätigung Deiner Registrierung
+
+Guten Tag,
+
+Vielen Dank, Du hast dich am Jan 11, 2025 erfolgreich als Bewerber auf jobvector.de registriert. Bitte bestätige Deine Registrierung, andernfalls werden Deine Daten in 13 Tagen gelöscht.
+
+Registrierung bestätigen
+
+Wenn Du den Aktivierungslink nicht nutzen kannst, trag bitte den folgenden Link in die Adresszeile des Browsers ein:
+
+https://www.jobvector.de/complete-registration.html?confirmation_token=6c790bbf499e92b12c44aac363f86f2c
+
+Bei Fragen schick uns bitte eine E-Mail.
+
+
+Mit freundlichen Grüßen
+Dein jobvector-Team",no-reply@phishingdetector.com,phishingdetector,com,https://www.jobvector.de/complete-registration.html?confirmation_token=6c790bbf499e92b12c44aac363f86f2c,Bestätigen,0
+Untersuchter Text,"Vielen Dank für deinen Kauf
+    PlayStation 
+    www.playstation.com
+   
+ 
+    Playstation
+    Deine Transaktion im PlayStation™Store war erfolgreich. Vielen Dank.
+
+    Nachstehend findest du deine Transaktionsdetails und einen Link zu den geltenden Bedingungen. Bitte drucke diese Nachricht aus und bewahre sie gut auf.
+    Bestellnummer: 
+    Name: 
+    Online-ID: 
+    Gekauft am: 
+    Details 	  	Preis
+    Diablo III: Eternal Collection (Spiel) 		
+      	  	
+    Zwischensumme: 
+    €19,79
+    Steuer: €3,16
+    Gesamtsumme: €19,79
+    Verwendete Guthabenquellen (gesamt)
+    PAYPALDI 
+
+
+    Derzeitiges Guthaben*: €0,00
+    *Dieses Guthaben ist zum Zeitpunkt dieser Transaktion aktuell.
+    Auf dieser Rechnung ist keine Mehrwertsteuer ausgewiesen.
+
+    Diese E-Mail wurde von einer reinen Versandadresse gesendet. Bitte antworte nicht auf diese E-Mail. Weitere Informationen zu deinem Konto erhältst du über die nachstehenden Links.
+
+    Support:
+    https://www.playstation.com/support
+
+    Nutzungsbedingungen und Endbenutzervereinbarung:
+    https://www.playstation.com/network/legal/terms-of-service/
+
+    Datenschutzrichtlinien:
+    https://www.playstation.com/network/legal/privacy-policy/
+
+    	  und ""PlayStation"" sind eingetragene Marken oder Marken von
+    Sony Interactive Entertainment Inc.
+    © 2023Sony Interactive Entertainment LLC.
+    MID: 534001849
+",no-reply@phishingdetector.com,phishingdetector,com,"https://www.playstation.com/support, https://www.playstation.com/network/legal/terms-of-service/, https://www.playstation.com/network/legal/privacy-policy/",,0
+Untersuchter Text,"Letzte Erinnerung: erneuern Sie noch heute Ihr McAfee-Abonnement!
+Mcafee 
+Von:officiel@citybest.spectra7licensing.com
+
+Ihr McAfee-Abonnement ist abgelaufen
+Dringend: Ihr Abonnement ist abgelaufen! Sie haben 24 Stunden um Ihren Schutz zu erneuern und aufrechtzuerhalten.
+
+Ihr Abonnement für McAfee Total Protection für Windows ist abgelaufen am 04/03/2025.
+
+Ohne Erneuerung, Ihre Geräte können anfällig für Viren, Malware und Identitätsdiebstahl werden.
+
+Sofortiges Handeln erforderlich! Ihre Geräte sind ungeschützt und gefährdet...
+Konto-ID: 	4332500US
+Benutzer: 	
+Seriennummer: 	RPTS JI89 DWJR QNK8
+Rabatt: 	95.99% OFF
+Angebot gültig bis: 	04/03/2025
+JETZT VERLÄNGERN
+
+Dear,
+
+Trotz mehrfacher Benachrichtigungen und Warnungen haben wir keine Antwort erhalten. Ihr Schutz vor Cyberbedrohungen ist ernsthaft gefährdet.
+
+Erneuern Sie Ihr Abonnement umgehend, um einen ununterbrochenen Schutz vor Cyberangriffen und Hackern sicherzustellen. Ihre Sicherheit hat für uns höchste Priorität.
+
+If you would like to stop receiving future emails unsubscribe here
+",no-reply@phishingdetector.com,phishingdetector,com,,Dringend,1
